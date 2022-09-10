@@ -8,7 +8,7 @@ describe('App', () => {
       expect(data).toMatchSnapshot()
       done()
     })
-  }) 
+  })
 })
 
 describe('Game', () => {
